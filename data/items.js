@@ -17,8 +17,8 @@ const items = [
     {
         id: '002',
         image: 'images/2.jpg',
-        company: 'CUKOO',
-        item_name: 'Women Padded Halter Neck Swimming Dress',
+        company: 'SINGNI',
+        item_name: 'Women Embroidered kurta set',
         original_price: 2599,
         current_price: 1507,
         discount_percentage: 42,
